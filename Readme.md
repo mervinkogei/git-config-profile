@@ -6,8 +6,8 @@
 
 </p>
 
-![Vincent Kogei's Stats](https://github-readme-stats.vercel.app/api?username=bkiprono&theme=merko&show_icons=true&hide_border=false&count_private=true)
-!Vincent Kogei's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bkiprono&theme=merko&hide_border=false)
+![Vincent Kogei's Stats](https://github-readme-stats.vercel.app/api?username=mervinkogei&theme=merko&show_icons=true&hide_border=false&count_private=true)
+![Vincent Kogei's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mervinkogeio&theme=merko&hide_border=false)
 
 
 <h3 align="left">Languages and Tools:</h3>
