@@ -4,7 +4,8 @@
 <p>
  <img src="https://github-profile-trophy.vercel.app/?username=mervinkogei&column=4&margin-w=25&margin-h=15" alt="Vincent K. KOgei" />
 </p>
-![Vincent Kogei's Stats](https://github-readme-stats.vercel.app/api?username=mervinkogei&theme=merko&show_icons=true&hide_border=false&count_private=true).
+
+![Vincent Kogei's Stats](https://github-readme-stats.vercel.app/api?username=mervinkogei&theme=merko&show_icons=true&hide_border=false&count_private=true)
 ![Vincent Kogei's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mervinkogei&theme=merko&hide_border=false).
 
 
