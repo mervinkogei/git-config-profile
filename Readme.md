@@ -14,7 +14,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/kogei_vincent" target="blank"><img src="https://img.shields.io/twitter/follow/itsbackenddevke?logo=twitter&style=for-the-badge" alt="kogei_vincent" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kogei_vincent" target="blank"><img src="https://img.shields.io/twitter/follow/kogei_vincent?logo=twitter&style=for-the-badge" alt="kogei_vincent" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
