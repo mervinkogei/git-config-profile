@@ -1,10 +1,6 @@
 <h1>Hi 👋, I'm Vincent K. Kogei</h1>
 <h3>Full-Stack Dev |  Senior Flutter Dev (Android/IOS) | NodeJS | Nest JS| Dart | CI/CD | Technical Consultant | Software Engineer.</h3>
 
-<p>
- <img src="https://github-profile-trophy.vercel.app/?username=mervinkogei&column=4&margin-w=25&margin-h=15" alt="bkiprono" />
-
-</p>
 
 ![Vincent Kogei's Stats](https://github-readme-stats.vercel.app/api?username=mervinkogei&theme=merko&show_icons=true&hide_border=false&count_private=true)
 ![Vincent Kogei's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mervinkogeio&theme=merko&hide_border=false)
@@ -15,7 +11,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/kogei_vincent" target="blank"><img src="https://img.shields.io/twitter/follow/itsbackenddevke?logo=twitter&style=for-the-badge" alt="itsbackenddevke" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kogei_vincent" target="blank"><img src="https://img.shields.io/twitter/follow/itsbackenddevke?logo=twitter&style=for-the-badge" alt="kogei_vincent" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
